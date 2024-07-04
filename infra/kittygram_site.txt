@@ -1,0 +1,5 @@
+IP: 158.160.78.2;
+name_taski: https://gera.webhop.me/;
+name_kittygram: https://gerakittygram.ddns.net/;
+login: root1;
+password: 1234;
